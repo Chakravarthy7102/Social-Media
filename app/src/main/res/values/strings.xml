@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Get Social</string>
+    <string name="post">post</string>
+    <string name="type_something_to_post">type something to post</string>
+</resources>
